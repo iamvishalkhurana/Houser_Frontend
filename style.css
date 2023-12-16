@@ -1,0 +1,1694 @@
+.real-estate-categories {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.browse-offers-by {
+    position: absolute;
+    top: 49px;
+    left: 89px;
+    font-size: 16px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.real-estate-categories-parent {
+    position: absolute;
+    top: 0px;
+    left: 490px;
+    width: 345px;
+    height: 68px;
+}
+.frame-child {
+    position: relative;
+    border-radius: 10px;
+    width: 148px;
+    height: 120px;
+    object-fit: cover;
+}
+.flats {
+    position: relative;
+    font-weight: 500;
+}
+.ads {
+    position: relative;
+    font-size: 16px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.flats-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.rectangle-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.frame-parent {
+    position: absolute;
+    top: 108px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+    font-size: 18px;
+}
+.group-parent {
+    position: absolute;
+    top: 878px;
+    left: 58px;
+    width: 1324px;
+    height: 291px;
+    font-size: 32px;
+    color: #252525;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #eaf0fc;
+    width: 1440px;
+    height: 616px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    width: 310px;
+    height: 358px;
+    object-fit: cover;
+}
+.group-inner {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 10px;
+    width: 290px;
+    height: 170px;
+    object-fit: cover;
+}
+.ellipse-div {
+    position: relative;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.65);
+    width: 2px;
+    height: 2px;
+}
+.group-icon {
+    position: relative;
+    width: 8px;
+    height: 8px;
+    object-fit: cover;
+}
+.ellipse-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3px;
+}
+.frame-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 14px;
+    border-radius: 9px;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(1px);
+    border: 0.6px solid rgba(255, 255, 255, 0.65);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 6px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 8px;
+    height: 16px;
+}
+.icon {
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    top: 25%;
+    right: 25%;
+    bottom: 25%;
+    left: 25%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.rectangle-parent5 {
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    width: 8px;
+    height: 16px;
+}
+.frame-group {
+    position: absolute;
+    top: 150px;
+    left: 121px;
+    width: 68px;
+    height: 16px;
+}
+.built-up-real-estate {
+    position: relative;
+    line-height: 21px;
+    font-weight: 500;
+    display: inline-block;
+    width: 278px;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 16px;
+    height: 16px;
+}
+.icon2 {
+    position: absolute;
+    height: 83.33%;
+    width: 66.67%;
+    top: 8.33%;
+    right: 16.67%;
+    bottom: 8.33%;
+    left: 16.67%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.rectangle-parent7 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+}
+.bodzanow-mazowieckie-poland {
+    position: relative;
+}
+.group-parent2 {
+    width: 278px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+    font-size: 14px;
+    color: rgba(37, 37, 37, 0.6);
+}
+.built-up-real-estate-house-bod-parent {
+    width: 278px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.frame-container {
+    position: absolute;
+    top: 180px;
+    left: 0px;
+    width: 310px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px 16px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #252525;
+}
+.pln-120000 {
+    position: absolute;
+    top: 276px;
+    left: 16px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ff8935;
+}
+.houses-wrapper {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border-radius: 6px;
+    background-color: #ff8935;
+    box-shadow: 0px 10px 9px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 10px;
+    font-size: 12px;
+}
+.ellipse-icon {
+    position: absolute;
+    top: 146px;
+    left: 266px;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+}
+.icon3 {
+    position: absolute;
+    height: 79.17%;
+    width: 83.33%;
+    top: 12.5%;
+    right: 8.33%;
+    bottom: 8.33%;
+    left: 8.33%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.div {
+    position: relative;
+    text-transform: uppercase;
+}
+.group-parent3 {
+    position: absolute;
+    top: 149px;
+    left: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3px;
+}
+.group-child4 {
+    position: absolute;
+    top: 305px;
+    left: 16px;
+    background-color: #efefef;
+    width: 278px;
+    height: 1px;
+}
+.group-child5 {
+    position: absolute;
+    top: 20px;
+    left: 266px;
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+}
+.group-child6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 18px;
+    height: 18px;
+}
+.icon4 {
+    position: absolute;
+    height: 75%;
+    width: 75%;
+    top: 12.5%;
+    right: 12.5%;
+    bottom: 12.5%;
+    left: 12.5%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.rectangle-parent9 {
+    position: relative;
+    width: 18px;
+    height: 18px;
+}
+.group-parent4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.icon5 {
+    position: absolute;
+    height: 41.67%;
+    width: 83.33%;
+    top: 29.17%;
+    right: 8.33%;
+    bottom: 29.17%;
+    left: 8.33%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.group-parent5 {
+    position: absolute;
+    top: 0px;
+    left: 94px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.frame-parent1 {
+    position: absolute;
+    top: 320px;
+    left: 16px;
+    width: 236px;
+    height: 18px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.vector-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 310px;
+    height: 358px;
+}
+.vector-group {
+    position: absolute;
+    top: 0px;
+    left: 338px;
+    width: 310px;
+    height: 358px;
+}
+.vector-container {
+    position: absolute;
+    top: 0px;
+    left: 676px;
+    width: 310px;
+    height: 358px;
+}
+.vector-parent1 {
+    position: absolute;
+    top: 0px;
+    left: 1014px;
+    width: 310px;
+    height: 358px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 98px;
+    left: 0px;
+    width: 1324px;
+    height: 358px;
+}
+.the-latest-deals {
+    position: absolute;
+    top: 49px;
+    left: 0px;
+    font-size: 16px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.new-properties-for-sale-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 68px;
+}
+.see-all {
+    position: relative;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+}
+.icon24 {
+    position: absolute;
+    top: 3.75px;
+    left: 3.75px;
+    width: 10.5px;
+    height: 10.5px;
+    object-fit: cover;
+}
+.see-all-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.frame-wrapper7 {
+    position: absolute;
+    top: 18px;
+    left: 1209px;
+    border-radius: 44px;
+    border: 1px solid rgba(37, 37, 37, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 20px;
+    font-size: 16px;
+}
+.group-parent18 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1324px;
+    height: 68px;
+    font-size: 32px;
+    color: #252525;
+}
+.group-container {
+    position: absolute;
+    top: 80px;
+    left: 58px;
+    width: 1324px;
+    height: 456px;
+}
+.group-div {
+    position: absolute;
+    top: 1261px;
+    left: 0px;
+    width: 1440px;
+    height: 616px;
+    font-size: 14px;
+}
+.group-child42 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f8ff;
+    width: 1440px;
+    height: 616px;
+}
+.service-premises {
+    position: relative;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 103px;
+    flex-shrink: 0;
+}
+.frame-parent9 {
+    position: absolute;
+    top: 320px;
+    left: 16px;
+    width: 236px;
+    height: 18px;
+    color: #696969;
+}
+.new-listings-for-rent-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 312px;
+    height: 68px;
+}
+.rectangle-parent30 {
+    position: absolute;
+    top: 2374px;
+    left: 0px;
+    width: 1440px;
+    height: 616px;
+    font-size: 14px;
+}
+.check-the-offers {
+    position: absolute;
+    top: 49px;
+    left: 2px;
+    font-size: 16px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.popular-locations-parent {
+    position: absolute;
+    top: 0px;
+    left: 523px;
+    width: 279px;
+    height: 68px;
+    text-align: center;
+    font-size: 32px;
+}
+.group-child88 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    border: 1px solid rgba(37, 37, 37, 0.15);
+    box-sizing: border-box;
+    width: 310px;
+    height: 109px;
+}
+.group-child89 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 10px;
+    width: 116px;
+    height: 89px;
+    object-fit: cover;
+}
+.warsaw-parent {
+    position: absolute;
+    top: 27px;
+    left: 146px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.rectangle-parent56 {
+    position: absolute;
+    top: 118px;
+    left: 0px;
+    width: 310px;
+    height: 109px;
+}
+.rectangle-parent57 {
+    position: absolute;
+    top: 247px;
+    left: 0px;
+    width: 310px;
+    height: 109px;
+}
+.rectangle-parent58 {
+    position: absolute;
+    top: 118px;
+    left: 338px;
+    width: 310px;
+    height: 109px;
+}
+.rectangle-parent59 {
+    position: absolute;
+    top: 247px;
+    left: 338px;
+    width: 310px;
+    height: 109px;
+}
+.rectangle-parent60 {
+    position: absolute;
+    top: 118px;
+    left: 676px;
+    width: 310px;
+    height: 109px;
+}
+.rectangle-parent61 {
+    position: absolute;
+    top: 247px;
+    left: 676px;
+    width: 310px;
+    height: 109px;
+}
+.rectangle-parent62 {
+    position: absolute;
+    top: 118px;
+    left: 1014px;
+    width: 310px;
+    height: 109px;
+}
+.rectangle-parent63 {
+    position: absolute;
+    top: 247px;
+    left: 1014px;
+    width: 310px;
+    height: 109px;
+}
+.group-parent38 {
+    position: absolute;
+    top: 1931px;
+    left: 58px;
+    width: 1324px;
+    height: 356px;
+    font-size: 18px;
+    color: #252525;
+}
+.blog-articles-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 193px;
+    height: 68px;
+}
+.blog {
+    position: relative;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.blog-wrapper {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border-radius: 6px;
+    background-color: #ff8935;
+    box-shadow: 0px 10px 9px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 10px;
+}
+.march-19-2023-parent {
+    width: 278px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.frame-wrapper19 {
+    width: 278px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-wrapper18 {
+    width: 310px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 16px 10px;
+    box-sizing: border-box;
+}
+.real-estate-has {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    width: 278px;
+    flex-shrink: 0;
+}
+.real-estate-has-been-one-of-th-wrapper {
+    width: 278px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 14px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.evolution-of-real-estate-how-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.frame-wrapper20 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 16px 10px;
+    font-size: 18px;
+    color: #252525;
+}
+.frame-parent16 {
+    position: absolute;
+    top: 180px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    color: rgba(37, 37, 37, 0.6);
+}
+.vector-parent6 {
+    position: absolute;
+    top: 98px;
+    left: 0px;
+    width: 310px;
+    height: 358px;
+}
+.vector-parent7 {
+    position: absolute;
+    top: 98px;
+    left: 676px;
+    width: 310px;
+    height: 358px;
+}
+.vector-parent8 {
+    position: absolute;
+    top: 98px;
+    left: 338px;
+    width: 310px;
+    height: 358px;
+}
+.vector-parent9 {
+    position: absolute;
+    top: 98px;
+    left: 1014px;
+    width: 310px;
+    height: 358px;
+}
+.group-parent39 {
+    position: absolute;
+    top: 3759px;
+    left: 58px;
+    width: 1324px;
+    height: 456px;
+    font-size: 12px;
+}
+.group-child117 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 798px;
+}
+.group-child118 {
+    position: absolute;
+    top: 0px;
+    left: 58px;
+    border-radius: 10px;
+    width: 1324px;
+    height: 404px;
+    object-fit: cover;
+}
+.frequently-searched {
+    position: absolute;
+    top: 434px;
+    left: 58px;
+    font-size: 32px;
+    font-weight: 600;
+}
+.see-what-properties {
+    position: absolute;
+    top: 483px;
+    left: 58px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.frame-wrapper30 {
+    position: absolute;
+    top: 440px;
+    left: 1267px;
+    border-radius: 44px;
+    border: 1px solid rgba(37, 37, 37, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 20px;
+}
+.flats-for-sale {
+    position: relative;
+    text-decoration: underline;
+    font-weight: 500;
+}
+.icon52 {
+    position: absolute;
+    height: 41.67%;
+    width: 41.67%;
+    top: 29.17%;
+    right: 29.17%;
+    bottom: 29.17%;
+    left: 29.17%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.flats-for-sale-warsaw-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.frame-parent21 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frame-parent22 {
+    position: absolute;
+    top: 0px;
+    left: 714px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frame-parent23 {
+    position: absolute;
+    top: 0px;
+    left: 341px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frame-parent24 {
+    position: absolute;
+    top: 0px;
+    left: 1023px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frame-parent20 {
+    position: absolute;
+    top: 542px;
+    left: 58px;
+    width: 1232px;
+    height: 186px;
+}
+.rectangle-parent65 {
+    position: absolute;
+    top: 4295px;
+    left: 0px;
+    width: 1440px;
+    height: 798px;
+    color: #252525;
+}
+.houserpl-free {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 316px;
+}
+.houserpl-is-a {
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+    width: 652px;
+}
+.houserpl-is-a-modern-website-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.read-more {
+    position: relative;
+    line-height: 24px;
+    font-weight: 500;
+}
+.read-more-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+    color: #252525;
+}
+.frame-parent25 {
+    position: absolute;
+    top: 98px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px;
+    font-size: 16px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.houserpl-free-real-estate-a-parent {
+    position: absolute;
+    top: 5645px;
+    left: 730px;
+    width: 652px;
+    height: 546px;
+    font-size: 32px;
+    color: #252525;
+}
+.mask-group-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 500px;
+    object-fit: cover;
+}
+.see-what-our {
+    margin: 0;
+}
+.see-what-our-container {
+    position: absolute;
+    top: 161px;
+    left: 58px;
+    font-size: 32px;
+    font-weight: 600;
+    color: #fff;
+}
+.icon73 {
+    position: relative;
+    width: 14px;
+    height: 14px;
+    object-fit: cover;
+}
+.icon-wrapper {
+    border-radius: 40px;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(2px);
+    border: 1px solid #fff;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+}
+.frame-parent26 {
+    position: absolute;
+    top: 177px;
+    left: 1274px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.group-child141 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 0px 7px 82px rgba(0, 0, 0, 0.08);
+    width: 420px;
+    height: 416px;
+}
+.group-child142 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 54px;
+    height: 42px;
+    object-fit: cover;
+}
+.it-is-a {
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    line-height: 178.02%;
+    display: inline-block;
+    width: 360px;
+}
+.mastercard {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    font-size: 16px;
+    color: #ff8935;
+}
+.bessie-cooper-parent {
+    position: absolute;
+    top: 3px;
+    left: 70px;
+    width: 141px;
+    height: 48px;
+}
+.group-child143 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    width: 54px;
+    height: 54px;
+    object-fit: cover;
+}
+.group-parent41 {
+    position: absolute;
+    top: 332px;
+    left: 30px;
+    width: 211px;
+    height: 54px;
+    font-size: 20px;
+    color: #252525;
+}
+.group-child144 {
+    position: absolute;
+    top: 296px;
+    left: 30px;
+    width: 359px;
+    height: 16px;
+    object-fit: cover;
+}
+.rectangle-parent88 {
+    position: absolute;
+    top: 289px;
+    left: 58px;
+    width: 420px;
+    height: 416px;
+}
+.jacob-jones-parent {
+    position: absolute;
+    top: 3px;
+    left: 70px;
+    width: 123px;
+    height: 48px;
+}
+.group-parent42 {
+    position: absolute;
+    top: 332px;
+    left: 30px;
+    width: 193px;
+    height: 54px;
+    font-size: 20px;
+    color: #252525;
+}
+.rectangle-parent89 {
+    position: absolute;
+    top: 289px;
+    left: 510px;
+    width: 420px;
+    height: 416px;
+}
+.savannah-nguyen-parent {
+    position: absolute;
+    top: 3px;
+    left: 70px;
+    width: 175px;
+    height: 48px;
+}
+.group-parent43 {
+    position: absolute;
+    top: 332px;
+    left: 30px;
+    width: 245px;
+    height: 54px;
+    font-size: 20px;
+    color: #252525;
+}
+.rectangle-parent90 {
+    position: absolute;
+    top: 289px;
+    left: 962px;
+    width: 420px;
+    height: 416px;
+}
+.mask-group-parent {
+    position: absolute;
+    top: 2990px;
+    left: 0px;
+    width: 1440px;
+    height: 705px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.group-child153 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #252525;
+    width: 1440px;
+    height: 527px;
+}
+.using-the-website {
+    position: absolute;
+    top: 44px;
+    left: 0px;
+    line-height: 24px;
+    display: inline-block;
+    width: 279px;
+}
+.vector-icon {
+    position: absolute;
+    height: 26.09%;
+    width: 38.9%;
+    top: 0%;
+    right: 61.1%;
+    bottom: 73.91%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.using-the-website-means-accept-parent {
+    position: relative;
+    width: 279px;
+    height: 92px;
+}
+.group-child154 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 43px;
+    height: 43px;
+    object-fit: cover;
+}
+.group-child155 {
+    position: absolute;
+    top: 0px;
+    left: 106px;
+    width: 43px;
+    height: 43px;
+    object-fit: cover;
+}
+.group-child156 {
+    position: absolute;
+    top: 0px;
+    left: 159px;
+    width: 43px;
+    height: 43px;
+    object-fit: cover;
+}
+.group-child157 {
+    position: absolute;
+    top: 0px;
+    left: 53px;
+    width: 43px;
+    height: 43px;
+    object-fit: cover;
+}
+.group-parent45 {
+    position: relative;
+    width: 202px;
+    height: 43px;
+}
+.group-wrapper {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.group-parent44 {
+    position: absolute;
+    top: 100px;
+    left: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+}
+.houserpl {
+    position: absolute;
+    top: 471px;
+    left: 599px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.4);
+}
+.group-child158 {
+    position: absolute;
+    top: 450px;
+    left: 58px;
+    background-color: #2c2c2c;
+    width: 1324px;
+    height: 1px;
+}
+.for-business {
+    position: relative;
+    line-height: 24px;
+    font-weight: 600;
+}
+.halls-warehouses {
+    position: relative;
+    line-height: 24px;
+}
+.halls-warehouses-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.for-business-parent {
+    position: absolute;
+    top: 56px;
+    left: 207px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px;
+}
+.for-business-group {
+    position: absolute;
+    top: 56px;
+    left: 692px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px;
+}
+.houserpl-parent {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px;
+}
+.for-you-parent {
+    position: absolute;
+    top: 56px;
+    left: 468px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px;
+}
+.group-child159 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 879px;
+    height: 16px;
+    object-fit: cover;
+}
+.frame-parent27 {
+    position: absolute;
+    top: 45px;
+    left: 506px;
+    width: 879px;
+    height: 294px;
+    font-size: 20px;
+}
+.rectangle-parent91 {
+    position: absolute;
+    top: 6370px;
+    left: 0px;
+    width: 1440px;
+    height: 527px;
+}
+.group-child160 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #252525;
+    width: 1440px;
+    height: 372px;
+}
+.mask-group-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 372px;
+    object-fit: cover;
+}
+.start-listing-or {
+    position: relative;
+    line-height: 151.02%;
+    font-weight: 600;
+    display: inline-block;
+    width: 422px;
+    height: 72px;
+    flex-shrink: 0;
+}
+.lets-get-started-wrapper {
+    border-radius: 10px;
+    background-color: #ff8935;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 30px;
+    font-size: 16px;
+}
+.start-listing-or-buying-a-prop-parent {
+    position: absolute;
+    top: 100px;
+    left: 58px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 40px;
+}
+.rectangle-parent92 {
+    position: absolute;
+    top: 5093px;
+    left: 0px;
+    width: 1440px;
+    height: 372px;
+    font-size: 32px;
+}
+.home-page-child {
+    position: absolute;
+    top: 147.96px;
+    left: 750px;
+    width: 521px;
+    height: 597.02px;
+    object-fit: cover;
+}
+.home {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.new-offers {
+    position: absolute;
+    top: 0px;
+    left: 71px;
+}
+.categories {
+    position: absolute;
+    top: 0px;
+    left: 181px;
+}
+.locations {
+    position: absolute;
+    top: 0px;
+    left: 290px;
+}
+.blog1 {
+    position: absolute;
+    top: 0px;
+    left: 390px;
+}
+.agencies {
+    position: absolute;
+    top: 0px;
+    left: 450px;
+}
+.developers {
+    position: absolute;
+    top: 0px;
+    left: 546px;
+}
+.home-parent {
+    position: absolute;
+    top: 43px;
+    left: 285px;
+    width: 632px;
+    height: 19px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.login {
+    position: absolute;
+    top: 44px;
+    left: 1093px;
+    color: rgba(37, 37, 37, 0.8);
+}
+.add-an-announcement-wrapper {
+    position: absolute;
+    top: 28px;
+    left: 1171px;
+    border-radius: 8px;
+    background-color: #ff8935;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 20px;
+}
+.vector-icon1 {
+    position: absolute;
+    height: 0.35%;
+    width: 7.54%;
+    top: 0.59%;
+    right: 88.43%;
+    bottom: 99.06%;
+    left: 4.03%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.discover-a-place {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 603px;
+}
+.connect-with-more {
+    position: absolute;
+    top: 155px;
+    left: 0px;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgba(37, 37, 37, 0.8);
+    display: inline-block;
+    width: 484px;
+}
+.discover-a-place-you-will-love-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 603px;
+    height: 215px;
+}
+.for-sale-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #ff8935;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 20px;
+    color: #fff;
+}
+.for-rent-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 110px;
+    border-radius: 10px;
+    border: 1px solid rgba(174, 174, 174, 0.3);
+    box-sizing: border-box;
+    width: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 20px;
+}
+.lease-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 210px;
+    border-radius: 10px;
+    border: 1px solid rgba(174, 174, 174, 0.3);
+    box-sizing: border-box;
+    width: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 20px;
+}
+.frame-parent28 {
+    position: relative;
+    width: 300px;
+    height: 44px;
+}
+.group-child161 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 0px 8px 52px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e7e7e7;
+    box-sizing: border-box;
+    width: 876px;
+    height: 104px;
+}
+.group-child162 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+}
+.rectangle-parent94 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.group-parent48 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.frame-wrapper31 {
+    position: absolute;
+    top: 20px;
+    left: 692px;
+    border-radius: 16px;
+    background-color: #ff8935;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+    font-size: 16px;
+    color: #fff;
+}
+.rectangle-parent95 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 14px;
+    height: 14px;
+}
+.group-frame {
+    position: relative;
+    width: 14px;
+    height: 14px;
+}
+.location {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.enter-a-location {
+    position: relative;
+    font-size: 18px;
+    color: #000;
+}
+.frame-parent29 {
+    position: absolute;
+    top: 30px;
+    left: 352px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.group-child164 {
+    position: absolute;
+    top: 20px;
+    left: 321px;
+    background-color: #d9d9d9;
+    width: 1px;
+    height: 64px;
+}
+.icon77 {
+    position: absolute;
+    height: 75%;
+    width: 83.33%;
+    top: 12.5%;
+    right: 8.33%;
+    bottom: 12.5%;
+    left: 8.33%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.icon78 {
+    position: absolute;
+    height: 25%;
+    width: 50%;
+    top: 37.5%;
+    right: 25%;
+    bottom: 37.5%;
+    left: 25%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.halls-and-warehouses-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    font-size: 18px;
+    color: #000;
+}
+.frame-parent30 {
+    position: absolute;
+    top: 29px;
+    left: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.rectangle-parent93 {
+    position: relative;
+    width: 876px;
+    height: 104px;
+    font-size: 14px;
+    color: #676767;
+}
+.group-parent47 {
+    position: absolute;
+    top: 268px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+    font-size: 16px;
+    color: #787878;
+}
+.group-parent46 {
+    position: absolute;
+    top: 234px;
+    left: 58px;
+    width: 876px;
+    height: 426px;
+    font-size: 56px;
+    color: #252525;
+}
+.mask-group-icon2 {
+    position: absolute;
+    top: 5576px;
+    left: 106px;
+    width: 544px;
+    height: 684.09px;
+    object-fit: cover;
+}
+.mask-group-icon3 {
+    position: absolute;
+    top: 5576px;
+    left: 38px;
+    width: 544px;
+    height: 684.09px;
+    object-fit: cover;
+}
+.home-page {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 6897px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Inter;
+}
+
